@@ -1,6 +1,7 @@
 # QuarentenaDados Aula 1
-Data Science Introductiory Course - Class 1
 
-Learning fundamentals of Data Science plus 7 challenges.
+Aula 1 do curso introdutorio em Data Science pela Alura.
+
+Contem fundamentos e mas 7 desafios propostos pelos instrutores.
 
 [QuarentenaDadosFilmes.ipnyb](/QuarentenaDadosFilmes.ipynb)
