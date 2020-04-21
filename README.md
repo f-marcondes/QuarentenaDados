@@ -1,3 +1,6 @@
 # QuarentenaDados Aula 1
-Este é um repositório com os desafios da primeira aula criado pelo Google Colaboratory.
+Data Science Introductiory Course - Class 1
+
+Learning fundamentals of Data Science plus 7 challenges.
+
 [QuarentenaDadosFilmes.ipnyb](/QuarentenaDadosFilmes.ipynb)
