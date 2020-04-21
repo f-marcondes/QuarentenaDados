@@ -4,4 +4,4 @@ Aula 1 do curso introdutorio em Data Science pela Alura.
 
 Contem fundamentos e mas 7 desafios propostos pelos instrutores.
 
-[QuarentenaDadosFilmes.ipnyb](/QuarentenaDadosFilmes.ipynb)
+[QuarentenaDados_aula1.ipnyb](/QuarentenaDados_aula1.ipynb)
