@@ -9,4 +9,4 @@ Analise de dados de filmes usando a base de dados do MovieLens.
 
 ## Aula 3
 
-Analise de dados de filmes usando a base de dados do IMDB.
+Analise de dados de filmes usando a base de dados do IMDB.[QuarentenaDados_aula_3.ipynb](/QuarentenaDados_aula_3.ipynb)
