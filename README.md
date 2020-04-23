@@ -5,6 +5,6 @@ Curso Introdutório em Data Science pela Alura.
 ## Aulas 1 e 2
 
 Analise de dados de filmes.
-[QuarentenaDados_Filmes.ipnyb](/QuarentenaDados_Filmes.ipynb)
+[QuarentenaDados_aula_1_e_2.ipynb](/QuarentenaDados_aula_1_e_2.ipynb)
 
 ## Aula 3
